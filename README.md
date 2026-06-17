@@ -11,6 +11,15 @@ A console-based ATM System built in C++ that allows clients to log in, perform w
 - Balance inquiry
 - File-based data persistence
 
+---
+
+### Authentication
+Default Client Account 
+
+Username: `User1` / Password: `1111`
+
+---
+
 ### Concepts Practiced
 
 - File Handling in C++
